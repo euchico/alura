@@ -1,0 +1,8 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte2\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe.config
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte2\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte2\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte2\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.AssemblyReference.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte2\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte2\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte2\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte2\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.pdb

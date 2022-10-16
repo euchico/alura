@@ -1,0 +1,7 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM5-Condicional\bin\Debug\MNM5-Condicional.exe.config
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM5-Condicional\bin\Debug\MNM5-Condicional.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM5-Condicional\bin\Debug\MNM5-Condicional.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM5-Condicional\obj\Debug\MNM5-Condicional.csproj.SuggestedBindingRedirects.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM5-Condicional\obj\Debug\MNM5-Condicional.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM5-Condicional\obj\Debug\MNM5-Condicional.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM5-Condicional\obj\Debug\MNM5-Condicional.pdb

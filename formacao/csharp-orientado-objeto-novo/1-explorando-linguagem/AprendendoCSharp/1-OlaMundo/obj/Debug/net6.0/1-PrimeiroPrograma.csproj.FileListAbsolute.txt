@@ -1,0 +1,15 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\1-PrimeiroPrograma.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\1-PrimeiroPrograma.deps.json
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\1-PrimeiroPrograma.runtimeconfig.json
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\1-PrimeiroPrograma.dll
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\ref\1-PrimeiroPrograma.dll
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\1-PrimeiroPrograma.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-PrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-PrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-PrimeiroPrograma.dll
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\ref\1-PrimeiroPrograma.dll
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-PrimeiroPrograma.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-PrimeiroPrograma.genruntimeconfig.cache

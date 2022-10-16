@@ -1,0 +1,7 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Desafio-Fatorial\bin\Debug\Desafio-Fatorial.exe.config
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Desafio-Fatorial\bin\Debug\Desafio-Fatorial.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Desafio-Fatorial\bin\Debug\Desafio-Fatorial.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Desafio-Fatorial\obj\Debug\Desafio-Fatorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Desafio-Fatorial\obj\Debug\Desafio-Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Desafio-Fatorial\obj\Debug\Desafio-Fatorial.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Desafio-Fatorial\obj\Debug\Desafio-Fatorial.pdb

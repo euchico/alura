@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "72380ca1-8efc-41ee-a861-79101c5694d7": {
+      "ProjectGuid": "72380ca1-8efc-41ee-a861-79101c5694d7",
+      "DisplayName": "1-PrimeiroProjeto",
+      "ColorIndex": 0
+    },
+    "798788ac-5ba6-447f-b6c9-41c113f12f65": {
+      "ProjectGuid": "798788ac-5ba6-447f-b6c9-41c113f12f65",
+      "DisplayName": "2-CriandoVariaveis",
+      "ColorIndex": 1
+    },
+    "b698d143-cb78-4196-aaa5-2d49cef68888": {
+      "ProjectGuid": "b698d143-cb78-4196-aaa5-2d49cef68888",
+      "DisplayName": "3-CriandoVariaveisPontoFlutuante",
+      "ColorIndex": 2
+    },
+    "7e5aaf0d-55b4-4010-b0fb-b35cfbddc950": {
+      "ProjectGuid": "7e5aaf0d-55b4-4010-b0fb-b35cfbddc950",
+      "DisplayName": "4-ConversoesEOutrosTiposNumericos",
+      "ColorIndex": 3
+    },
+    "62a8f91a-04c0-4c53-8b8b-af36a5652b67": {
+      "ProjectGuid": "62a8f91a-04c0-4c53-8b8b-af36a5652b67",
+      "DisplayName": "5-CaracteresETextos",
+      "ColorIndex": 4
+    },
+    "2dfc1fe9-f5da-4d05-b60a-4f3127c0c633": {
+      "ProjectGuid": "2dfc1fe9-f5da-4d05-b60a-4f3127c0c633",
+      "DisplayName": "6-AtribuicoesDeVariaveis",
+      "ColorIndex": 5
+    },
+    "7907b540-5cd5-4853-9dc1-921ec31031b6": {
+      "ProjectGuid": "7907b540-5cd5-4853-9dc1-921ec31031b6",
+      "DisplayName": "7-Condicionais",
+      "ColorIndex": 6
+    },
+    "b3fd933e-e15f-436f-8cdb-ff7596d264b5": {
+      "ProjectGuid": "b3fd933e-e15f-436f-8cdb-ff7596d264b5",
+      "DisplayName": "8-Condicionais2",
+      "ColorIndex": 7
+    },
+    "833ba1d1-37d1-4eff-8534-d8c281962e6e": {
+      "ProjectGuid": "833ba1d1-37d1-4eff-8534-d8c281962e6e",
+      "DisplayName": "9-Escopo",
+      "ColorIndex": 8
+    },
+    "f8d4991d-c40d-4bb7-aa52-3d5c3a3bb122": {
+      "ProjectGuid": "f8d4991d-c40d-4bb7-aa52-3d5c3a3bb122",
+      "DisplayName": "P10-CalculaPoupanca",
+      "ColorIndex": 9
+    },
+    "ebf246da-5096-431a-a73d-b70b7bfc6a52": {
+      "ProjectGuid": "ebf246da-5096-431a-a73d-b70b7bfc6a52",
+      "DisplayName": "P11-CalculaPoupaca2",
+      "ColorIndex": 10
+    },
+    "0408b458-fbb3-4341-81de-b224a2b63fad": {
+      "ProjectGuid": "0408b458-fbb3-4341-81de-b224a2b63fad",
+      "DisplayName": "P12-CalculaInvestimentoLongoPrazo",
+      "ColorIndex": 11
+    },
+    "63205990-c52d-4d4f-8e86-7ff8a9286957": {
+      "ProjectGuid": "63205990-c52d-4d4f-8e86-7ff8a9286957",
+      "DisplayName": "P13-ForEncadeado",
+      "ColorIndex": 12
+    },
+    "7e9962a6-ee45-4194-a691-1a22b08bf229": {
+      "ProjectGuid": "7e9962a6-ee45-4194-a691-1a22b08bf229",
+      "DisplayName": "MNM1-CriandoVariaveis",
+      "ColorIndex": 13
+    },
+    "acbac5bf-1ba8-4f24-8ea7-99f5f544fd42": {
+      "ProjectGuid": "acbac5bf-1ba8-4f24-8ea7-99f5f544fd42",
+      "DisplayName": "MNM2-TestaPontoFlutuante",
+      "ColorIndex": 14
+    },
+    "b75be7a1-ed80-48e7-a3c7-c9ba19430906": {
+      "ProjectGuid": "b75be7a1-ed80-48e7-a3c7-c9ba19430906",
+      "DisplayName": "MNM3-ConversoesEOutrosTiposNumericos",
+      "ColorIndex": 15
+    },
+    "d2a0bbcf-d2bd-461d-80ea-12567435c1db": {
+      "ProjectGuid": "d2a0bbcf-d2bd-461d-80ea-12567435c1db",
+      "DisplayName": "MNM4-CaracteresETextos",
+      "ColorIndex": 0
+    },
+    "2cc862e4-5b1d-42a4-b00d-eb920b25c909": {
+      "ProjectGuid": "2cc862e4-5b1d-42a4-b00d-eb920b25c909",
+      "DisplayName": "MNM5-Condicional",
+      "ColorIndex": 1
+    },
+    "6bc84057-6f2c-4008-9616-139784e3f5a1": {
+      "ProjectGuid": "6bc84057-6f2c-4008-9616-139784e3f5a1",
+      "DisplayName": "MNM6-TestaCondicional2",
+      "ColorIndex": 2
+    },
+    "16ff28f7-eb56-4cdf-8d87-0b8581df8b46": {
+      "ProjectGuid": "16ff28f7-eb56-4cdf-8d87-0b8581df8b46",
+      "DisplayName": "MNM7-TestaEscopo",
+      "ColorIndex": 3
+    },
+    "a509df57-9a76-407a-a439-3524a06fbe9e": {
+      "ProjectGuid": "a509df57-9a76-407a-a439-3524a06fbe9e",
+      "DisplayName": "Opcional-AliquotaComIfs",
+      "ColorIndex": 4
+    },
+    "8f3377ac-f0ef-4a57-bff6-6aaa0e68dc8c": {
+      "ProjectGuid": "8f3377ac-f0ef-4a57-bff6-6aaa0e68dc8c",
+      "DisplayName": "Correcao-While",
+      "ColorIndex": 5
+    },
+    "0ccb5281-5381-497e-9e73-274f427b0f30": {
+      "ProjectGuid": "0ccb5281-5381-497e-9e73-274f427b0f30",
+      "DisplayName": "Correcao-WhileEmFor",
+      "ColorIndex": 6
+    },
+    "33f4c96c-e7f5-4c5d-bd39-74ca0ec6ef75": {
+      "ProjectGuid": "33f4c96c-e7f5-4c5d-bd39-74ca0ec6ef75",
+      "DisplayName": "MNM8-LacoDeRepeticaoWhile",
+      "ColorIndex": 7
+    },
+    "82aa7200-869c-4bcf-bdb9-8954a059cfbb": {
+      "ProjectGuid": "82aa7200-869c-4bcf-bdb9-8954a059cfbb",
+      "DisplayName": "MNM9-LacoDeRepeticaoFor",
+      "ColorIndex": 8
+    },
+    "7f2aa275-542f-48b1-9360-fa0a28dc889b": {
+      "ProjectGuid": "7f2aa275-542f-48b1-9360-fa0a28dc889b",
+      "DisplayName": "Correcao-While2",
+      "ColorIndex": 9
+    },
+    "fad4a6ce-f93a-433c-b4e8-4dd2e3983c1d": {
+      "ProjectGuid": "fad4a6ce-f93a-433c-b4e8-4dd2e3983c1d",
+      "DisplayName": "MNM10-LacoDeRepeticaoFor",
+      "ColorIndex": 10
+    },
+    "7fcd6be4-48e1-4c65-a6c9-30a35ce09a2b": {
+      "ProjectGuid": "7fcd6be4-48e1-4c65-a6c9-30a35ce09a2b",
+      "DisplayName": "MNM11-LacoDeRepeticaoFor2",
+      "ColorIndex": 11
+    },
+    "b2e03203-4ed1-412f-80dc-a855db38764d": {
+      "ProjectGuid": "b2e03203-4ed1-412f-80dc-a855db38764d",
+      "DisplayName": "Desafio-MultiploDe3",
+      "ColorIndex": 12
+    },
+    "5807bcc1-e4ff-4122-aa7b-df4cbe4544b1": {
+      "ProjectGuid": "5807bcc1-e4ff-4122-aa7b-df4cbe4544b1",
+      "DisplayName": "Desafio-Fatorial",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

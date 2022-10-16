@@ -1,0 +1,28 @@
+Aula 06. Controle de fluxo com laço de repetição ============================== //
+
+02 Laço de repetição While =============== //
+
+Comandos:
+- while (condição){ }
+- variavel = variavel + 1;
+  variavel += 1;
+  variavel++;
+
+
+04 Questão =============== //
+
+É correto afirmar que:
+- Na expressão condicional do while é possível utilizar qualquer operador de comparação (< [menor], > [maior], <= [menor ou igual], >= [maior ou igual], == [igual a] e != [diferente de]) e qualquer operador lógico (&& [and], || [ou]).
+- O while sempre precisará de uma expressão condicional que definirá quando o laço deve ser interrompido.
+
+
+05 Laço de repetição For =============== //
+
+Comandos:
+- for (declaração; condição; incremento){ }
+
+
+09 Questão =============== //
+
+Clarice está em dúvida sobre o modo como o break funciona quando utilizado dentro de laços de repetição aninhados. Escolha a opção que descreve exatamente o funcionamento desse comando nessas situações.
+- Para a execução do laço mais interno que contém o comando break e continua executando os laços mais externos.

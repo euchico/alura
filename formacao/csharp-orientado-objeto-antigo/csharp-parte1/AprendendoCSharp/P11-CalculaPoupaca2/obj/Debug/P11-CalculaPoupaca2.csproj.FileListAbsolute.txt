@@ -1,0 +1,7 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\P11-CalculaPoupaca2\bin\Debug\P11-CalculaPoupaca2.exe.config
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\P11-CalculaPoupaca2\bin\Debug\P11-CalculaPoupaca2.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\P11-CalculaPoupaca2\bin\Debug\P11-CalculaPoupaca2.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\P11-CalculaPoupaca2\obj\Debug\P11-CalculaPoupaca2.csproj.SuggestedBindingRedirects.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\P11-CalculaPoupaca2\obj\Debug\P11-CalculaPoupaca2.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\P11-CalculaPoupaca2\obj\Debug\P11-CalculaPoupaca2.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\P11-CalculaPoupaca2\obj\Debug\P11-CalculaPoupaca2.pdb

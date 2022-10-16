@@ -1,0 +1,6 @@
+Aula 02. Tipos ============================== //
+
+08 Questão =============== //
+
+É correto afirmar que:
+- O valor padrão do tipo bool é false.

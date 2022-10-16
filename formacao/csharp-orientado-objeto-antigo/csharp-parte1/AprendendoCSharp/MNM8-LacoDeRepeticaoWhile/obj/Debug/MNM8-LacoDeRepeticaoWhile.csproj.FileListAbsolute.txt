@@ -1,0 +1,8 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM8-LacoDeRepeticaoWhile\bin\Debug\MNM8-LacoDeRepeticaoWhile.exe.config
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM8-LacoDeRepeticaoWhile\bin\Debug\MNM8-LacoDeRepeticaoWhile.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM8-LacoDeRepeticaoWhile\bin\Debug\MNM8-LacoDeRepeticaoWhile.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM8-LacoDeRepeticaoWhile\obj\Debug\MNM8-LacoDeRepeticaoWhile.csproj.AssemblyReference.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM8-LacoDeRepeticaoWhile\obj\Debug\MNM8-LacoDeRepeticaoWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM8-LacoDeRepeticaoWhile\obj\Debug\MNM8-LacoDeRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM8-LacoDeRepeticaoWhile\obj\Debug\MNM8-LacoDeRepeticaoWhile.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM8-LacoDeRepeticaoWhile\obj\Debug\MNM8-LacoDeRepeticaoWhile.pdb

@@ -1,0 +1,36 @@
+Aula 01. Nossa primeira classe ============================== //
+
+02 Nossa primeira classe =============== //
+
+Criação de Classe
+
+Comando:
+- public class ContaCorrente{ }
+
+
+03 Questão =============== //
+
+Qual é a relação entre classes e objetos?
+- Uma classe define os membros e a estrutura que os objetos deste tipo de classe devem seguir.
+
+
+04 Questão =============== //
+
+Com base no que aprendemos nesta primeira aula, cite alguns benefícios da POO.
+- Reutilização de código.
+- Organização do código.
+- Com o código centralizado nas classes, as manutenções e alterações são pontuais.
+
+
+05 Questão =============== //
+
+Sobre a convenção de nomes de arquivos de código, marque as alternativas corretas:
+- Cada palavra deve começar com letra em maiúsculo.
+- A primeira letra deve sempre ser em maiúsculo.
+- Não deve haver espaços nos nomes dos arquivos.
+
+
+06 Questão =============== //
+
+Qual expressão abaixo representa a criação de um objeto da classe ContaCorrente?
+- new ContaCorrente()

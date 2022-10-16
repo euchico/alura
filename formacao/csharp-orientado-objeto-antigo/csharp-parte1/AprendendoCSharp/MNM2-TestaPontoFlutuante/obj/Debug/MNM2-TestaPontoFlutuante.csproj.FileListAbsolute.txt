@@ -1,0 +1,7 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM2-TestaPontoFlutuante\bin\Debug\MNM2-TestaPontoFlutuante.exe.config
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM2-TestaPontoFlutuante\bin\Debug\MNM2-TestaPontoFlutuante.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM2-TestaPontoFlutuante\bin\Debug\MNM2-TestaPontoFlutuante.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM2-TestaPontoFlutuante\obj\Debug\MNM2-TestaPontoFlutuante.csproj.SuggestedBindingRedirects.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM2-TestaPontoFlutuante\obj\Debug\MNM2-TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM2-TestaPontoFlutuante\obj\Debug\MNM2-TestaPontoFlutuante.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM2-TestaPontoFlutuante\obj\Debug\MNM2-TestaPontoFlutuante.pdb

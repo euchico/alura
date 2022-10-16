@@ -1,0 +1,5 @@
+Aula 06. Construtores e membros estáticos ============================== //
+
+06 Questão =============== //
+
+É correto afirmar que:

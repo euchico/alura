@@ -1,0 +1,15 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P10-CalcularPoupanca\bin\Debug\net6.0\P10-CalcularPoupanca.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P10-CalcularPoupanca\bin\Debug\net6.0\P10-CalcularPoupanca.deps.json
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P10-CalcularPoupanca\bin\Debug\net6.0\P10-CalcularPoupanca.runtimeconfig.json
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P10-CalcularPoupanca\bin\Debug\net6.0\P10-CalcularPoupanca.dll
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P10-CalcularPoupanca\bin\Debug\net6.0\ref\P10-CalcularPoupanca.dll
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P10-CalcularPoupanca\bin\Debug\net6.0\P10-CalcularPoupanca.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P10-CalcularPoupanca\obj\Debug\net6.0\P10-CalcularPoupanca.csproj.AssemblyReference.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P10-CalcularPoupanca\obj\Debug\net6.0\P10-CalcularPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P10-CalcularPoupanca\obj\Debug\net6.0\P10-CalcularPoupanca.AssemblyInfoInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P10-CalcularPoupanca\obj\Debug\net6.0\P10-CalcularPoupanca.AssemblyInfo.cs
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P10-CalcularPoupanca\obj\Debug\net6.0\P10-CalcularPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P10-CalcularPoupanca\obj\Debug\net6.0\P10-CalcularPoupanca.dll
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P10-CalcularPoupanca\obj\Debug\net6.0\ref\P10-CalcularPoupanca.dll
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P10-CalcularPoupanca\obj\Debug\net6.0\P10-CalcularPoupanca.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P10-CalcularPoupanca\obj\Debug\net6.0\P10-CalcularPoupanca.genruntimeconfig.cache

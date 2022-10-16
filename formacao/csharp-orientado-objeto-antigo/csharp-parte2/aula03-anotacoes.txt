@@ -1,0 +1,22 @@
+Aula 03. Comportamentos de classe ============================== //
+
+02 Nossa primeira função =============== //
+
+Comando:
+- public var NomeMetodo (var variavel){}
+- this
+
+
+04 Método sem retorno =============== //
+
+Comando:
+- public void NomeMetodo (var variavel){}
+
+
+06 Questão =============== //
+
+É correto afirmar:
+- Um método define o comportamento ou a maneira de fazer algo.
+- Função e método são termos sinônimos, mas, é comum encontrarmos o termo função quando há retorno e método quando não há.
+- Um método pode ter nenhum parâmetro.
+- Por convenção, o nome do método deve começar com letra maiúscula.

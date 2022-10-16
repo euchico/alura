@@ -1,0 +1,14 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net6.0\P12-InvestimentoALongoPrazo.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net6.0\P12-InvestimentoALongoPrazo.deps.json
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net6.0\P12-InvestimentoALongoPrazo.runtimeconfig.json
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net6.0\P12-InvestimentoALongoPrazo.dll
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net6.0\ref\P12-InvestimentoALongoPrazo.dll
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net6.0\P12-InvestimentoALongoPrazo.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\P12-InvestimentoALongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\P12-InvestimentoALongoPrazo.AssemblyInfoInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\P12-InvestimentoALongoPrazo.AssemblyInfo.cs
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\P12-InvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\P12-InvestimentoALongoPrazo.dll
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\ref\P12-InvestimentoALongoPrazo.dll
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\P12-InvestimentoALongoPrazo.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1-extra\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\P12-InvestimentoALongoPrazo.genruntimeconfig.cache

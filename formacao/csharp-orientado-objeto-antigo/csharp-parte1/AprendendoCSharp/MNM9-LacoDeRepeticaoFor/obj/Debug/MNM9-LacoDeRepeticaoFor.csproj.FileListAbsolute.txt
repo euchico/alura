@@ -1,0 +1,7 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM9-LacoDeRepeticaoFor\bin\Debug\MNM9-LacoDeRepeticaoFor.exe.config
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM9-LacoDeRepeticaoFor\bin\Debug\MNM9-LacoDeRepeticaoFor.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM9-LacoDeRepeticaoFor\bin\Debug\MNM9-LacoDeRepeticaoFor.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM9-LacoDeRepeticaoFor\obj\Debug\MNM9-LacoDeRepeticaoFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM9-LacoDeRepeticaoFor\obj\Debug\MNM9-LacoDeRepeticaoFor.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM9-LacoDeRepeticaoFor\obj\Debug\MNM9-LacoDeRepeticaoFor.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM9-LacoDeRepeticaoFor\obj\Debug\MNM9-LacoDeRepeticaoFor.pdb

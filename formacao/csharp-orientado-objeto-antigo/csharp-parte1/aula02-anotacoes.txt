@@ -1,0 +1,49 @@
+Aula 02. Nosso primeiro programa e o Visual Studio ============================== //
+
+01 Nosso primeiro programa CSharp =============== //
+
+Caminho do compilador de C#:
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe
+
+
+02 Questão =============== //
+
+É correto afirmar que:
+- Durante a compilação acontece uma verificação sintática do código fonte.
+- Na compilação e execução podem aparecer erros.
+- Quando executamos o programa compilado, a CLR lê e executa o código MSIL gerado.
+- O compilador gera o MSIL caso não tenha nenhum erro sintático no código fonte.
+
+
+03 Instalando o Visual Studio =============== //
+
+Instalar o Visual Studio Community
+
+
+05 Ola mundo no Visual Studio =============== //
+
+Criar um projeto do tipo "Aplicativo do Console (.NET Framawork)"
+
+Comandos:
+- Console.WriteLine("Texto");
+- Console.ReadLine();
+
+
+06 Questão =============== //
+
+É correto afirmar que:
+- Um IDE é um ambiente integrado de desenvolvimento que centraliza em um único lugar: compilador da linguagem utilizada, editor de texto, documentação, banco de dados e tudo que gira em torno da criação de aplicações.
+- O Visual Studio Community é a versão gratuita da IDE Visual Studio.
+
+
+08 Questão =============== //
+
+Qual é a definição correta?
+static void Main(string[] args)
+
+
+09 Questão =============== //
+
+Quais comandos ele deve usar para compilar e rodar esse código C#?
+c:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe Programa.txt
+Programa.exe

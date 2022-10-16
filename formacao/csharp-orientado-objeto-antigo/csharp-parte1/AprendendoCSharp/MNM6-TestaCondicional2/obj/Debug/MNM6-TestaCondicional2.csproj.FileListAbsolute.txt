@@ -1,0 +1,8 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM6-TestaCondicional2\bin\Debug\MNM6-TestaCondicional2.exe.config
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM6-TestaCondicional2\bin\Debug\MNM6-TestaCondicional2.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM6-TestaCondicional2\bin\Debug\MNM6-TestaCondicional2.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM6-TestaCondicional2\obj\Debug\MNM6-TestaCondicional2.csproj.AssemblyReference.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM6-TestaCondicional2\obj\Debug\MNM6-TestaCondicional2.csproj.SuggestedBindingRedirects.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM6-TestaCondicional2\obj\Debug\MNM6-TestaCondicional2.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM6-TestaCondicional2\obj\Debug\MNM6-TestaCondicional2.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM6-TestaCondicional2\obj\Debug\MNM6-TestaCondicional2.pdb

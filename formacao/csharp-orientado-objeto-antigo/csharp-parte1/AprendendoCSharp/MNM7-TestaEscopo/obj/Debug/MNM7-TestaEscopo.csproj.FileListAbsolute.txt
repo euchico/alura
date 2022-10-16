@@ -1,0 +1,8 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM7-TestaEscopo\bin\Debug\MNM7-TestaEscopo.exe.config
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM7-TestaEscopo\bin\Debug\MNM7-TestaEscopo.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM7-TestaEscopo\bin\Debug\MNM7-TestaEscopo.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM7-TestaEscopo\obj\Debug\MNM7-TestaEscopo.csproj.AssemblyReference.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM7-TestaEscopo\obj\Debug\MNM7-TestaEscopo.csproj.SuggestedBindingRedirects.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM7-TestaEscopo\obj\Debug\MNM7-TestaEscopo.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM7-TestaEscopo\obj\Debug\MNM7-TestaEscopo.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM7-TestaEscopo\obj\Debug\MNM7-TestaEscopo.pdb

@@ -1,0 +1,8 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM3-ConversoesEOutrosTiposNumericos\bin\Debug\MNM3-ConversoesEOutrosTiposNumericos.exe.config
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM3-ConversoesEOutrosTiposNumericos\bin\Debug\MNM3-ConversoesEOutrosTiposNumericos.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM3-ConversoesEOutrosTiposNumericos\bin\Debug\MNM3-ConversoesEOutrosTiposNumericos.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM3-ConversoesEOutrosTiposNumericos\obj\Debug\MNM3-ConversoesEOutrosTiposNumericos.csproj.AssemblyReference.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM3-ConversoesEOutrosTiposNumericos\obj\Debug\MNM3-ConversoesEOutrosTiposNumericos.csproj.SuggestedBindingRedirects.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM3-ConversoesEOutrosTiposNumericos\obj\Debug\MNM3-ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM3-ConversoesEOutrosTiposNumericos\obj\Debug\MNM3-ConversoesEOutrosTiposNumericos.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM3-ConversoesEOutrosTiposNumericos\obj\Debug\MNM3-ConversoesEOutrosTiposNumericos.pdb

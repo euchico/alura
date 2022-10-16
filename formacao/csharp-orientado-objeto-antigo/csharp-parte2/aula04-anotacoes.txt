@@ -1,0 +1,14 @@
+Aula 04. Namespace composição e null ============================== //
+
+03 Questão =============== //
+
+É correto afirmar que:
+- Os nomes de namespace não devem conter traços (-) ou iniciar com números.
+- O namespace faz parte do nome completo de uma classe.
+
+
+04 Questão =============== //
+
+É correto afirmar que:
+- A sintaxe da diretiva using é: using nome.do.namespace;
+- Devemos incluir as diretivas using somente no começo do arquivo de código.

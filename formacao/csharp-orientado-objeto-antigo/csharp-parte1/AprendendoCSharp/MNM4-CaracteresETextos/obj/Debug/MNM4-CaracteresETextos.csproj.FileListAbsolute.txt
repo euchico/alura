@@ -1,0 +1,7 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM4-CaracteresETextos\bin\Debug\MNM4-CaracteresETextos.exe.config
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM4-CaracteresETextos\bin\Debug\MNM4-CaracteresETextos.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM4-CaracteresETextos\bin\Debug\MNM4-CaracteresETextos.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM4-CaracteresETextos\obj\Debug\MNM4-CaracteresETextos.csproj.SuggestedBindingRedirects.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM4-CaracteresETextos\obj\Debug\MNM4-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM4-CaracteresETextos\obj\Debug\MNM4-CaracteresETextos.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\MNM4-CaracteresETextos\obj\Debug\MNM4-CaracteresETextos.pdb

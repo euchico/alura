@@ -1,0 +1,8 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Opcional-AliquotaComIfs\bin\Debug\Opcional-AliquotaComIfs.exe.config
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Opcional-AliquotaComIfs\bin\Debug\Opcional-AliquotaComIfs.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Opcional-AliquotaComIfs\bin\Debug\Opcional-AliquotaComIfs.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Opcional-AliquotaComIfs\obj\Debug\Opcional-AliquotaComIfs.csproj.AssemblyReference.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Opcional-AliquotaComIfs\obj\Debug\Opcional-AliquotaComIfs.csproj.SuggestedBindingRedirects.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Opcional-AliquotaComIfs\obj\Debug\Opcional-AliquotaComIfs.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Opcional-AliquotaComIfs\obj\Debug\Opcional-AliquotaComIfs.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Opcional-AliquotaComIfs\obj\Debug\Opcional-AliquotaComIfs.pdb

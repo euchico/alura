@@ -1,0 +1,36 @@
+Aula 03. Variáveis numéricas ============================== //
+
+02 Criando variáveis =============== //
+
+Tipos:
+int -> Inteiro
+
+Comandos:
+- int variavel;
+- Console.Write("Texto");
+
+
+05 Criando variáveis double =============== //
+
+Divisão de inteiros por inteiro gera um resultado inteiro.
+
+15 / 2 == 7
+15.0 / 2 == 7.5
+
+Tipos:
+double -> Real
+
+Comandos:
+- double variavel;
+
+
+08 Conversão e outros tipos numéricos =============== //
+
+Type Casting
+* Conversão de tipos de variaveis;
+
+variavel = (int) outraVariavel;
+
+Comandos:
+- (int)
+- long variavel;

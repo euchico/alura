@@ -1,0 +1,13 @@
+Aula 04. Variáveis de texto ============================== //
+
+02 Caracteres e textos =============== //
+
+Comandos:
+- char variavel;
+- string variavel;
+
+
+06 Variáveis guardam valores =============== //
+
+Comandos:
+- var variavel1 = variavel2

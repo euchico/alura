@@ -1,0 +1,7 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Desafio-MultiploDe3\bin\Debug\Desafio-MultiploDe3.exe.config
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Desafio-MultiploDe3\bin\Debug\Desafio-MultiploDe3.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Desafio-MultiploDe3\bin\Debug\Desafio-MultiploDe3.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Desafio-MultiploDe3\obj\Debug\Desafio-MultiploDe3.csproj.SuggestedBindingRedirects.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Desafio-MultiploDe3\obj\Debug\Desafio-MultiploDe3.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Desafio-MultiploDe3\obj\Debug\Desafio-MultiploDe3.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Desafio-MultiploDe3\obj\Debug\Desafio-MultiploDe3.pdb

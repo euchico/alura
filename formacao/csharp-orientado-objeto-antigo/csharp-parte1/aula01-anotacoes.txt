@@ -1,0 +1,39 @@
+Aula 01. História e ecossistema da linguagem ============================== //
+
+01 Apresentação =============== //
+
+Instrutor: Guilherme Matheus
+
+
+02 História e ecossistema .NET =============== //
+
+Níveis de Arquitetura:
+- C# (Linguagem)
+- Aplicação .NET (Aplicação)
+- .NER Framework (Biblioteca)
+- CLR - Common Language Runtime (Máquina Virtual)
+- Windows (Sistema Operacional)
+
+MSIL - Microsoft Intermediate Language
+* Linguagem que roda na CLR.
+
+Anders Hejlsberg, principal arquiteto por trás do C# e .NET.
+
+
+03 Questão =============== //
+
+Qual é o grande benefício de uma Maquina Virtual .NET (CLR - common language runtime)?
+Executar o código independente do sistema operacional.
+
+
+04 Questão =============== //
+
+Quais tipos de aplicações você pode criar com a linguagem C#?
+Sistemas para web (web sites ou web apps), sistemas puramente "server-side", aplicativos móveis, jogos ou aplicativos de desktop.
+
+
+05 Questão =============== //
+
+É correto afirmar que:
+- Toda linguagem .NET é compilada para a linguagem intermediária MSIL e é compatível com o .NET Framework.
+- .NET Framework é a biblioteca utilizada por todas as aplicações .NET.

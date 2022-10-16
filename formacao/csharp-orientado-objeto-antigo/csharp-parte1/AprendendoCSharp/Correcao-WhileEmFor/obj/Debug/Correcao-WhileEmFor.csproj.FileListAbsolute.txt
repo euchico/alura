@@ -1,0 +1,7 @@
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Correcao-WhileEmFor\bin\Debug\Correcao-WhileEmFor.exe.config
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Correcao-WhileEmFor\bin\Debug\Correcao-WhileEmFor.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Correcao-WhileEmFor\bin\Debug\Correcao-WhileEmFor.pdb
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Correcao-WhileEmFor\obj\Debug\Correcao-WhileEmFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Correcao-WhileEmFor\obj\Debug\Correcao-WhileEmFor.csproj.CoreCompileInputs.cache
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Correcao-WhileEmFor\obj\Debug\Correcao-WhileEmFor.exe
+C:\Users\eufra\Desenvolvimento\Estudo\alura-formacao-csharp-oo\csharp-parte1\AprendendoCSharp\Correcao-WhileEmFor\obj\Debug\Correcao-WhileEmFor.pdb

@@ -1,0 +1,26 @@
+Aula 05. Controle de fluxo com IF ============================== //
+
+02 Trabalhando com IF =============== //
+
+Comandos:
+- if (condição){ }
+- if (condição){ } else { }
+- >= 
+
+Visual Studio:
+- Formatar código: Ctrl + K, D
+
+
+04 Varável booleana =============== //
+
+Comandos:
+- ||
+- &&
+- bool variavel;
+
+
+06 Questão =============== //
+
+É correto afirmar que:
+- O operador lógico AND é representado pelos caracteres && e o OR pelo ||.
+- Os operadores lógicos devem ter no lado esquerdo e direito uma expressão booleana.

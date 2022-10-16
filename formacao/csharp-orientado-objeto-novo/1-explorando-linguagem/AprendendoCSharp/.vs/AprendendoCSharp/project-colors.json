@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f69efce-c43c-4324-b9b3-38f88c0f44df": {
+      "ProjectGuid": "5f69efce-c43c-4324-b9b3-38f88c0f44df",
+      "DisplayName": "1-OlaMundo",
+      "ColorIndex": 0
+    },
+    "2ed93e90-7d21-42f1-b47e-9384f34455a7": {
+      "ProjectGuid": "2ed93e90-7d21-42f1-b47e-9384f34455a7",
+      "DisplayName": "2-CriandoVariaveis",
+      "ColorIndex": 1
+    },
+    "c2d28f67-a021-4fd6-a252-c2bc82b87e58": {
+      "ProjectGuid": "c2d28f67-a021-4fd6-a252-c2bc82b87e58",
+      "DisplayName": "5-CaracteresETextos",
+      "ColorIndex": 2
+    },
+    "6e72e74a-171f-41c6-b5ec-fcead694a94e": {
+      "ProjectGuid": "6e72e74a-171f-41c6-b5ec-fcead694a94e",
+      "DisplayName": "4-ConversoesEOutrosTipos",
+      "ColorIndex": 3
+    },
+    "5555b5c5-eddc-4da6-9bf1-46dbf95e1869": {
+      "ProjectGuid": "5555b5c5-eddc-4da6-9bf1-46dbf95e1869",
+      "DisplayName": "6-AtribuicoesDeVariaveis",
+      "ColorIndex": 4
+    },
+    "9bf4a8e6-f819-4f6a-9063-d213ac2fac02": {
+      "ProjectGuid": "9bf4a8e6-f819-4f6a-9063-d213ac2fac02",
+      "DisplayName": "7-Condicionais",
+      "ColorIndex": 5
+    },
+    "9ae90de2-8c61-4a6c-8ff2-69c21445ef1a": {
+      "ProjectGuid": "9ae90de2-8c61-4a6c-8ff2-69c21445ef1a",
+      "DisplayName": "8-Condicionais2",
+      "ColorIndex": 6
+    },
+    "c277f526-9c33-4371-bb84-7051a1e24010": {
+      "ProjectGuid": "c277f526-9c33-4371-bb84-7051a1e24010",
+      "DisplayName": "9-Escopo",
+      "ColorIndex": 7
+    },
+    "7f05106c-28a7-4b58-a39d-c8c377c7afab": {
+      "ProjectGuid": "7f05106c-28a7-4b58-a39d-c8c377c7afab",
+      "DisplayName": "P10-CalcularPoupanca",
+      "ColorIndex": 8
+    },
+    "d651e9f9-d902-4661-bc45-5052bc6a73ac": {
+      "ProjectGuid": "d651e9f9-d902-4661-bc45-5052bc6a73ac",
+      "DisplayName": "P11-CalculaPoupanca2",
+      "ColorIndex": 9
+    },
+    "81f4ab7a-a267-4a00-9332-97fa8c07494d": {
+      "ProjectGuid": "81f4ab7a-a267-4a00-9332-97fa8c07494d",
+      "DisplayName": "P12-InvestimentoALongoPrazo",
+      "ColorIndex": 10
+    },
+    "8cae86e0-4239-419c-8691-600e027b0920": {
+      "ProjectGuid": "8cae86e0-4239-419c-8691-600e027b0920",
+      "DisplayName": "P13-EncadeandoFor",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

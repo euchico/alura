@@ -1,0 +1,8 @@
+Aula 05. Propriedade ============================== //
+
+05 Questão =============== //
+
+É correto afirmar que:
+- Podemos usar o código public int Idade { get; set; } para criar uma propriedade com getter e setter;
+- Por trás do código public int Idade { get; set; } o compilador cria um campo privado para a idade e 2 métodos para o Get_Idade e Set_Idade
+- Podemos usar o código public bool EhMaiorDeIdade { get { return Idade >= 18; } set { } } para criar uma propriedade.
